@@ -7,13 +7,19 @@ This app bridges the language gap in India, allowing users who don't share a com
 ### User Interface
 
 #### Login
-![Screenshot 2024-09-16 at 12.59.36 AM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F7v%2F6_qd05cj77vfpl9rvrqj65m00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_G1397r%2FScreenshot%202024-09-16%20at%2012.59.36%E2%80%AFAM.png)
+![](./Workflow/Screenshot 2024-09-16 at 1.09.16 AM.png)
 
-#### User selects language and creates a private chat room
-![Screenshot 2024-09-16 at 1.00.03 AM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F7v%2F6_qd05cj77vfpl9rvrqj65m00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_lKgJ1D%2FScreenshot%202024-09-16%20at%201.00.03%E2%80%AFAM.png)
+#### User selects language 
+![](./Workflow/Screenshot 2024-09-16 at 1.09.36 AM.png)
 
-#### User sends messages with speech / text in preferred language
-![Screenshot 2024-09-16 at 1.00.36 AM.png](..%2F..%2FDesktop%2FScreenshot%202024-09-16%20at%201.00.36%E2%80%AFAM.png)
+#### User creates a private chat room
+![](./Workflow/Screenshot 2024-09-16 at 1.09.44 AM.png)
 
-#### Reciever receives the messages in his selected language
-![Screenshot 2024-09-16 at 1.03.12 AM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F7v%2F6_qd05cj77vfpl9rvrqj65m00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_fHa5aw%2FScreenshot%202024-09-16%20at%201.03.12%E2%80%AFAM.png)
+#### User sends messages with speech
+![](./Workflow/Screenshot 2024-09-16 at 1.09.57 AM.png)
+
+#### Sender sends messages in his preferred language
+![](./Workflow/Screenshot 2024-09-16 at 1.10.07 AM.png)
+
+#### Reciever receives messages in his preferred language
+![](./Workflow/Screenshot 2024-09-16 at 1.10.21 AM.png)
