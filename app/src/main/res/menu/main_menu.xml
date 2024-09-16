@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Create Room" app:showAsAction="never"
+        android:id="@+id/createRoom"/>
+    <item android:title="English" app:showAsAction="never"
+        android:id="@+id/english"/>
+    <item android:title="हिंदी" app:showAsAction="never"
+        android:id="@+id/hindi"/>
+    <item android:title="ગુજરાતી" app:showAsAction="never"
+        android:id="@+id/gujarati"/>
+    <item android:title="français" app:showAsAction="never"
+        android:id="@+id/french"/>
+    <item android:title="Español" app:showAsAction="never"
+        android:id="@+id/spanish"/>
+        <item android:title="తెలుగు" app:showAsAction="never"
+        android:id="@+id/telugu"/>
+    <item android:title="தமிழ்" app:showAsAction="never"
+        android:id="@+id/tamil"/>
+    <item android:title="മലയാളം" app:showAsAction="never"
+        android:id="@+id/malayalam"/>
+    <item android:title="Sign out" app:showAsAction="never"
+        android:id="@+id/menu_sign_out"/>
+
+</menu>
