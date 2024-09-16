@@ -7,19 +7,19 @@ This app bridges the language gap in India, allowing users who don't share a com
 ### User Interface
 
 #### Login
-![](./Workflow/login.png)
+<img src="./Assets/login.png" width="300">
 
 #### User selects language 
-![](./Workflow/language-select.png)
+<img src="./Assets/language-select.png" width="300">
 
 #### User creates a private chat room
-![](./Workflow/chat-room.png)
+<img src="./Assets/chat-room.png" width="300">
 
 #### User sends messages with speech
-![](./Workflow/speech.png)
+<img src="./Assets/speech.png" width="300">
 
 #### Sender sends messages in his preferred language
-![](./Workflow/sender.png)
+<img src="./Assets/sender.png" width="300">
 
 #### Reciever receives messages in his preferred language
-![](./Workflow/receiver.png)
+<img src="./Assets/receiver.png" width="300">
