@@ -6,7 +6,7 @@ In this application, a group of people speaking different languages can communic
 This app bridges the language gap in India, allowing users who don't share a common language to communicate effectively.
 ### User Interface
 
-#### Login
+#### User login
 <img src="./Assets/login.png" width="300">
 
 #### User selects language 
